@@ -1,0 +1,6 @@
+<div class="custom-class" data-bind="bar">
+<p>
+ABC
+</p>
+<ul><li custom="&lt;">&lt;*Markdown* formatting `syntax` is not processed within block-level HTML **tags**&gt;</li></ul>
+</div>

@@ -1,0 +1,25 @@
++ One
++ 
++ Three
+
+
+Same thing but with paragraphs:
+
+1. First
+
+        var x = 1
+
+2. Second:
+    * Fee
+    * Fie
+    * Foe
+
+3. Third
+
+4. emphasis in same paragraph
+   **strong**
+
+
+5. emphasis in separate paragraph
+
+  **strong**
